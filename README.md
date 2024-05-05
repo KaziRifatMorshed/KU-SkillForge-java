@@ -8,8 +8,14 @@ SkillForge is a user-friendly programming practice GUI application created with 
 - Keeps you motivated
 - Runs Locally, totally Offline
 - Keeps logs and personal data in an encrypted file
-- Future Plan: Connects to a server to make a leaderboard among friends to grow a competitive mindset  
+- Connects to a server to make a leaderboard among friends to grow a competitive mindset among class/batch
+- includes CODEFORCES number of solves and contest participation among class
+- can be used to make points achieved after solving problems in skill-forge and codeforces
+- this program could be made open for all. In that case, we need private room and varification process for CSEKU students 
+- Need to integrate AntiCheat to discourage LLM, AI, Copy-Paste initiatives.
 
 
 ## Contributor:
 - ...
+
+`Dreaming a better future`
